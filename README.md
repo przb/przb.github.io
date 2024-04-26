@@ -56,7 +56,7 @@ The following are a list of my relevant courses (in reverse chronological order)
     - CIS276: Directory Services
     - CIS281: Network Troubleshooting
   - Fall 2020 *at Southeast Technical Institute*
-    - CIS187: Routers & WANS The I
+    - CIS187: Routers & WANS I
     - CIS259: Server Virtualization
     - CIS260: Advanced Linux
     - CIS283: Internet Systems Scripting
