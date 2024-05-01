@@ -1,9 +1,14 @@
-# About This Site
+# Info
 
-I am making this site so I can have a personal log of projects that I have worked on and courses I completed.
+Personal blog - for my future self to read (probably).
 
+# Link
 
-# About Me
+Served at https://przb.github.io/
 
-I am an upcoming graduate from Iowa State University.
+# Building
+
+Using:
+- ruby 3.0.2
+- jekyll 4.3.3
 
