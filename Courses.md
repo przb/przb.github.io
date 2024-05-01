@@ -1,3 +1,9 @@
+---
+layout: page
+title: Courses
+permalink: /courses/
+---
+
 ## Courses
 
 The following are a list of my relevant courses (in reverse chronological order).

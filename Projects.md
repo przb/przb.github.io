@@ -1,3 +1,9 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
 ## Some Projects (through school or other)
 This is a list of projects that I have done, some through school, some personal.
   - Butterfly of the Day
