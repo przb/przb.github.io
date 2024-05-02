@@ -12,3 +12,5 @@ Using:
 - ruby 3.0.2
 - jekyll 4.3.3
 
+ Favicon generated from https://favicon.io/favicon-generator/
+ 
