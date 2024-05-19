@@ -4,8 +4,8 @@ categories:
   - Blog
 ---
 
-First post. Is this working?
+First post. Kinda nervous. Is this working?
 
-(yes)
+*(yes)*
 
-
+In all seriousness, this site will likely just be an e-portfolio.
