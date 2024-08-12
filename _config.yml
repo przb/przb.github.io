@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Ben Przybyszewski"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpeg"
   bio    : "Iowa State University Computer Science Graduate."
   links:
     - label: "GitHub"
@@ -69,6 +69,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/przb"
+
+home_pages:
+  - /courses/
+  - /projects/
 
 defaults:
   # _posts

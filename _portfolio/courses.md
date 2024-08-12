@@ -1,5 +1,6 @@
 ---
 title: "Courses"
+permalink: "/courses"
 ---
 A list of courses I have completed.
 
