@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ben Przybyszewski"
   avatar : "/assets/images/profile.jpeg"
-  bio    : "Iowa State University Computer Science Graduate."
+  bio    : "Embedded Software Engineer"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
